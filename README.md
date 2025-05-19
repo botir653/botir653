@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Botir
 
 <!--
 **botir653/botir653** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
